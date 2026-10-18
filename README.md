@@ -4,17 +4,13 @@ API REST desenvolvida com Spring Boot para gerenciamento de uma auto-escola: cad
 
 **Disciplina:** SOA e WebServices  
 **Professor:** Carlos Eduardo Machado de Oliveira  
-**Checkpoint 5** (inclui todas as demandas dos Checkpoints 3 e 4)
 
 ## Integrantes do Grupo
 
 | Nome              | RM       |
 |-------------------|----------|
-| Ricardo Fernandes | RM554597 |
-| Khadija Lima      | RM668971 |
-| Isadora Meneghetti | RM556326|
-| Henrique Azevedo | RM556707|
-| Gustavo Ikeda | RM554718|
+| Vitor Couto Victorino | RM554965 |
+
 ## Tecnologias
 
 - Java 25
